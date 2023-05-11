@@ -1,0 +1,12 @@
+.p {
+  background-color: aqua;
+  opacity: 0.5;
+  width: 600px;
+  height: 600px;
+  position: fixed;
+  left: 500px;
+}
+.p {
+  background-color: rgb(red, green, blue);
+  background-color: rgba(red, green, blue, alpha);
+}
